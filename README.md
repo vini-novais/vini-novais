@@ -1,4 +1,4 @@
-<h2> Hello world! I am Vinícius <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> [![GitHub vini-novais](https://img.shields.io/github/followers/vini-novais?label=follow&style=social) (https://github.com/vini-novais)
+<h2> Hello world! I am Vinícius <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 <p>💻 Cyber Security enthusiast </p>
 <p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/7170d2ab-1768-44a1-8ced-133273bf666a/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436-removebg-preview.png" width="35" height="15"</p>
 <br><br>

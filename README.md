@@ -2,8 +2,7 @@
 
 <p>💻 Cyber Security enthusiast </p>
 <p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/7170d2ab-1768-44a1-8ced-133273bf666a/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436-removebg-preview.png" width="35" height="15"</p>
-
-
+<br><br><br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 

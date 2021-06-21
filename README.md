@@ -1,8 +1,7 @@
-<h2> Hello world! I am Vinícius <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-
+<h2> Hello world! I am Vinícius <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2> [![GitHub vini-novais](https://img.shields.io/github/followers/vini-novais?label=follow&style=social) (https://github.com/vini-novais)
 <p>💻 Cyber Security enthusiast </p>
 <p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/7170d2ab-1768-44a1-8ced-133273bf666a/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436-removebg-preview.png" width="35" height="15"</p>
-<br><br><br>
+<br><br>
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -24,8 +23,8 @@
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>
 <p align="center">
-    <a href="https://github.com/eric-viezzer">
-        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/eric-viezzer">
+    <a href="https://github.com/vini-novais">
+        <img  src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white&link=mailto:https://github.com/vini-novais">
     </a>
     &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:novais.19988@gmail.com">

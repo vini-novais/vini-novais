@@ -1,8 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D300&lines=Hello+world!+I'm+Vin%C3%ADcius+Novais!;And+I'm+passionate+about+technology)](https://git.io/typing-svg)
 <p>💻 Cyber Security enthusiast </p>
-<p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/83cf8558-58f3-4da9-896b-07c19435ccc4/kisspng-accenture-symbol-logo-management-consulting-high-intelligence-5ae346bf53e324.0577692915248442233436-removebg-preview.png" width="35" height="15"</p>
-<br>
-  
+<p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/a0f6670c-efd0-465e-b6a4-193c11e2a07c/brazil-removebg-preview.png" width="15" align="center"/> </p>
+
 <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif" width="500"/>
   
   **********
@@ -39,13 +38,17 @@
 
 **********
   
-<h2 align="center">🛠️ Languages & Frameworks</h2>
+<h2 align="left">🛠️ Languages and tools</h2>
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![Javascript](https://img.shields.io/badge/-Javascript-ffb400?style=for-the-badge&logo=javascript&logoColor=ffff3f)
-![Python](https://img.shields.io/badge/python%20-%231572B6.svg?&style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
+![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+    <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+
   
 **********
 
@@ -70,5 +73,8 @@
     </a>
 </p>
 
+  <p> Thanks for visiting 😎 </p>
+  <p>💬 Ask me about anything, I am happy to help. </p>
 
----
+⭐️ From [vini-novais](https://github.com/vini-novais)
+

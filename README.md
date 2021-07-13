@@ -23,7 +23,7 @@
   
 - <p> <img src="https://img.icons8.com/plasticine/2x/26e07f/book-and-pencil.png" width="15" align="center"/> Study new back-end and front-end languages and improve myself in the security tools.</p>
 - <p> <img src="https://o.remove.bg/downloads/cb3bf64f-c0fc-4bf9-8b3f-212ab583a488/music-icon-note-png-removebg-preview.png" width="15"/> Listening to music while studying and working.</p>
-- <p> <img src="https://o.remove.bg/downloads/d38088f0-3c79-410b-8c3b-4ecdfe982772/images-removebg-preview.png" width="15" align="center"/> Play games. </p>
+- <p> <img src="https://o.remove.bg/downloads/258ad8c6-c816-418a-901c-16f80ae7cc6f/png-clipart-realm-of-the-mad-god-fan-art-sorcerer-artist-terraria-fan-art-video-game-area-thumbnail-removebg-preview.png" width="15" align="center"/> Play games. </p>
 - <p> <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Movie-Studio-icon.png" width="15" align="center"/> Watch movies and series. </p>
 
 

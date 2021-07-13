@@ -13,9 +13,9 @@
   
   <h2 align="left"> A little about myself </h2>
   
-- <p>:handshake: My name is Vinícius Novais ♑</p>
-- <p>📍 From Pirituba - São Paulo.</p>
-- <p>🤵 I'm an intern and I've been working as a back-end developer since 2021.</p>
+- <p><img src="https://i.pinimg.com/originals/5e/ee/db/5eeedb45c962ce81c57e9e0e2eb23a5a.png" width="15" align="center"/> My name is Vinícius Novais ♑</p>
+- <p><img src="https://o.remove.bg/downloads/cb2b6211-58c0-4726-9e91-0c02859c0df4/1201643-removebg-preview.png" width="15" align="center"/> From Pirituba - São Paulo.</p>
+- <p><img src="https://o.remove.bg/downloads/115d2a85-3909-4679-86f0-48f5b2679a80/d3646957b3d5a8d4ce2dc8bbd356279d-removebg-preview.png" width="15" align="center"/> I'm an intern and working as a Security Delivery since january 2021.</p>
 - <p>🤵 I work at @accenturebr with information security. </p>
 
 <h4 align="left"> My hobbies </h4>

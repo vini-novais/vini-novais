@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D300&lines=Hello+world!+I'm+Vin%C3%ADcius+Novais!;And+I'm+passionate+about+technology)](https://git.io/typing-svg)
 <p>💻 Cyber Security enthusiast </p>
-<p>🤵 Security deliver associate at Accenture Brasil <img src="https://o.remove.bg/downloads/a0f6670c-efd0-465e-b6a4-193c11e2a07c/brazil-removebg-preview.png" width="15" align="center"/> </p>
+<p>🤵 Security deliver associate at Accenture Brasil </p>
 
 <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif" width="500"/>
   
@@ -13,18 +13,18 @@
   
   <h2 align="left"> A little about myself </h2>
   
-- <p><img src="https://i.pinimg.com/originals/5e/ee/db/5eeedb45c962ce81c57e9e0e2eb23a5a.png" width="15" align="center"/> My name is Vinícius Novais ♑</p>
-- <p><img src="https://o.remove.bg/downloads/cb2b6211-58c0-4726-9e91-0c02859c0df4/1201643-removebg-preview.png" width="15" align="center"/> From Pirituba - São Paulo.</p>
-- <p><img src="https://o.remove.bg/downloads/115d2a85-3909-4679-86f0-48f5b2679a80/d3646957b3d5a8d4ce2dc8bbd356279d-removebg-preview.png" width="15" align="center"/> I'm an intern and working as a Security Delivery since january 2021 in @accenturebr.</p>
-- <p><img src="https://o.remove.bg/downloads/e97c1263-873f-4009-908e-250cfab31295/books-1673578_1280-removebg-preview.png" width="15" align="center"/> Student of systems analysis and development, currently in the 3rd semester.</p>
+- <p>♑ My name is Vinícius Novais </p>
+- <p>🌍 From Pirituba - São Paulo.</p>
+- <p>🔒 I'm an intern and working as a Security Delivery since january 2021 in @accenturebr.</p>
+- <p>📕 Student of systems analysis and development, currently in the 3rd semester.</p>
 
 
 <h4 align="left"> My hobbies </h4>
   
-- <p> <img src="https://img.icons8.com/plasticine/2x/26e07f/book-and-pencil.png" width="15" align="center"/> Study new back-end and front-end languages and improve myself in the security tools.</p>
-- <p> <img src="https://img.icons8.com/color/452/music--v1.png" width="15"/> Listening to music while studying and working.</p>
-- <p> <img src="https://o.remove.bg/downloads/258ad8c6-c816-418a-901c-16f80ae7cc6f/png-clipart-realm-of-the-mad-god-fan-art-sorcerer-artist-terraria-fan-art-video-game-area-thumbnail-removebg-preview.png" width="15" align="center"/> Play games. </p>
-- <p> <img src="https://icons.iconarchive.com/icons/dtafalonso/android-lollipop/512/Movie-Studio-icon.png" width="15" align="center"/> Watch movies and series. </p>
+- <p>📘 Study new back-end and front-end languages and improve myself in the security tools.</p>
+- <p>🎵 Listening to music while studying and working.</p>
+- <p>🎮 Play games. </p>
+- <p>🎞  Watch movies and series. </p>
 
 
 **********

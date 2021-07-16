@@ -49,6 +49,9 @@
     <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
     <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+    <img alt="Azure" src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white"/>
+    <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJ IDEA-FF0083.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
+    <img alt="NetBeans IDE" src="https://img.shields.io/badge/NetBeans IDE-747900.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white"/>
 
   
 **********

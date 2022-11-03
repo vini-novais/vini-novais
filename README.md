@@ -55,11 +55,13 @@
 
   
 **********
+  <div>
+  <h3 align="center"> Certificates <img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
+</div>
  
  <img src="https://www.green.com.br/site/wp-content/uploads/2021/03/sc900.png"> 
-  
 **********
-
+  
 <div>
   <h3 align="center">Connect with me<img align="center" src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" height="33px" /></h3> 
 </div>

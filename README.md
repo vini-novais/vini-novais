@@ -2,7 +2,7 @@
 <p>💻 Cyber Security enthusiast </p>
 <p>🤵 Security associate at Accenture Brasil </p>
 
-<img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif" width="500"/>
+<img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif" width="400"/>
   
   **********
   

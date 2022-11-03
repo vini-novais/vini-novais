@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F7D300&lines=Hello+world!+I'm+Vin%C3%ADcius+Novais!;And+I'm+passionate+about+technology)](https://git.io/typing-svg)
 <p>💻 Cyber Security enthusiast </p>
-<p>🤵 Security deliver associate at Accenture Brasil </p>
+<p>🤵 Security associate at Accenture Brasil </p>
 
 <img align="right" alt="GIF" src="https://cdn-images-1.medium.com/max/800/0*ZnNHGO20RCbUGatL.gif" width="500"/>
   

@@ -39,7 +39,7 @@
 
 **********
   
-<h2 align="left">🛠️ Languages and tools</h2>
+<h2 align="left">Languages and tools 🛠️</h2>
 
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/css%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
@@ -56,7 +56,7 @@
   
 **********
   
-<h2 align="center">📃Certificates</h2>
+<h2 align="center">Certificates 📃</h2>
  
   <div align="center">
  <img src="https://www.green.com.br/site/wp-content/uploads/2021/03/sc900.png" height="100px">
@@ -87,7 +87,7 @@
 </p>
 
   <p> Thanks for visiting 😎 </p>
-  <p>💬 Ask me about anything, I am happy to help. </p>
+  <p> Ask me about anything, I am happy to help. 💬</p>
 
 ⭐️ From [vini-novais](https://github.com/vini-novais)
 

@@ -58,7 +58,8 @@
   
 <h2 align="left">📃Certificates</h2>
  
- <img src="https://www.green.com.br/site/wp-content/uploads/2021/03/sc900.png"> 
+ <img src="https://www.green.com.br/site/wp-content/uploads/2021/03/sc900.png" height="200px"> 
+  
 **********
   
 <div>
